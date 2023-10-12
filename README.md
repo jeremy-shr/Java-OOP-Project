@@ -3,7 +3,7 @@
 Coursework for Object Oriented Programming class. 
 
 
-## Task
+##Task
 
 My partner and I were tasked with creating a text-based social media platform in Java by implementing OOP concepts. 
 
